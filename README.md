@@ -14,5 +14,5 @@ Source for badips: AbuseIPDB - GitHub ScriptzTeam/BadIPs - BinaryDefense - MyHom
 
 Last update: 23.01.2022 - 20:56 - WindowsBlockit - blockit.zip
 
-You can download weekly updates BadIPs from my private site URL: https://piramide.zapto.org/iplist.txt
+You can download weekly updates or when I have time BadIPs from my private site URL: https://piramide.zapto.org/iplist.txt
 
