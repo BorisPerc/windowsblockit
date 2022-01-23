@@ -8,7 +8,7 @@ Wait until all bad IP addresses are entered in Windows Firewall - execution of t
 You can use those badips to block in any Linux Server of Windows Server
 Import iplist.txt to your Linux Firewall
 
-There is even all proxy servers usualy used by hackers and mass scanners file for those BadIPs:  iplistandproxyandipv6.txt
+There is even all proxy servers usualy used by hackers and mass scanners, file for those BadIPs blockit.zip:  iplistandproxyandipv6.txt
 
 Source for badips: AbuseIPDB - GitHub ScriptzTeam/BadIPs - BinaryDefense - MyHomeNetrork and own EU Servers
 
