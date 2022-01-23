@@ -1,5 +1,5 @@
 # windowsblockit
-Windows 10 Block Kit BadIPs 
+Windows 10/11 Block Kit BadIPs 
 
 Download blockit.zip - unpack and run blockit.bat
 
