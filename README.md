@@ -29,7 +29,7 @@ URL: https://piramide.zapto.org/iplist-extra-pcsnet.txt
 
 LAST UPDATE: 8.02.2022 - 21:02
 
-HTU org. - UITW org. EU - USA - RU + ALL OTHER SERVERS BADIPS:
+HTU org. - UITW org. EU - USA - RU + ALL OTHER SERVERS BADIPS COMPLETE LIST:
 
 URL: https://piramide.zapto.org/iplist.txt
 
