@@ -15,16 +15,16 @@ Source for badips: AbuseIPDB - GitHub ScriptzTeam/BadIPs - BinaryDefense - MyHom
 Last update: 23.01.2022 - 20:56 - WindowsBlockit - blockit.zip
 
 
-You can download weekly updates or when I have time BadIPs from my private servers Slovenia URL: 
-https://piramide.zapto.org/iplist-original-pcsnet.txt
+You can download weekly updates or when I have time BadIPs from my private servers Slovenia:
+URL: https://piramide.zapto.org/iplist-original-pcsnet.txt
 
 LAST UPDATE: 8.02.2022 - 21:02
 GITHUB-ScriptzTeam/BadIPs + BINARYDEFENSE + PCSNET SI + HTU EU + UITW EU:
-https://piramide.zapto.org/iplist-extra-pcsnet.txt
+URL: https://piramide.zapto.org/iplist-extra-pcsnet.txt
 
 LAST UPDATE: 8.02.2022 - 21:02
 HTU org. - UITW org. EU - USA - RU + ALL OTHER SERVERS BADIPS:
-https://piramide.zapto.org/iplist.txt
+URL: https://piramide.zapto.org/iplist.txt
 
 SAME TEXT FILES ARE ON DOMAIN: WWW.PCSNET.TK
 
