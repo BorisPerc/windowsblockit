@@ -34,6 +34,6 @@ HTU org. - UITW org. EU - USA - RU + ALL OTHER SERVERS BADIPS COMPLETE LIST:
 URL: https://piramide.zapto.org/iplist.txt
 
 
-SAME TEXT FILES ARE ON DOMAIN: WWW.PCSNET.TK
+SAME TEXT FILES ARE ON DOMAIN: http://perc.ddns.net/iplist.txt
 
 
