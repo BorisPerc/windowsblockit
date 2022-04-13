@@ -15,19 +15,18 @@ Source for badips: AbuseIPDB - GitHub ScriptzTeam/BadIPs - BinaryDefense - MyHom
 Last update: 23.01.2022 - 20:56 - WindowsBlockit - blockit.zip
 
 
-You can download weekly updates or when I have time BadIPs from my private servers Slovenia:
+You can download weekly updates or when I have time BadIPs from my private servers Slovenia BadIP only for Home Network:
 
-URL: http://piramide.zapto.org/iplist-original-pcsnet.txt
-
-
-LAST UPDATE: 8.02.2022 - 21:02
-
-GITHUB-ScriptzTeam/BadIPs + BINARYDEFENSE + PCSNET SI + HTU EU + UITW EU:
-
-URL: http://piramide.zapto.org/iplist-extra-pcsnet.txt
+URL: http://piramide.zapto.org/iplist-pcsnet.txt
 
 
 LAST UPDATE: 8.02.2022 - 21:02
+
+Piramide Studio NET private BanIPs for life time:
+
+URL: http://piramide.zapto.org/iplist-pcsnet.txt
+
+LAST UPDATE: ?????
 
 HTU org. - UITW org. EU - USA - RU + ALL OTHER SERVERS BADIPS COMPLETE LIST:
 
