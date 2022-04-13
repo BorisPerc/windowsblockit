@@ -26,7 +26,7 @@ Piramide Studio NET private BanIPs for life time:
 
 URL: http://piramide.zapto.org/iplist-pcsnet.txt
 
-LAST UPDATE: ?????
+LAST UPDATE: ????? (Maybe next month...)
 
 HTU org. - UITW org. EU - USA - RU + ALL OTHER SERVERS BADIPS COMPLETE LIST:
 
