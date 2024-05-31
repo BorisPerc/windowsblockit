@@ -25,7 +25,7 @@ URL: https://psmedia.mywire.org/iplist.txt
 URL: https://psmedia.mywire.org/iplist-pcsnet.txt
 
 
-LAST UPDATE FOR STATIC FILES: 1.06.2024 - 21:02
+LAST UPDATE FOR STATIC LIST FILES: 1.06.2024 - 21:02
 
 Piramide Studio NET private BanIPs for life time:
 
