@@ -12,27 +12,35 @@ There is even all proxy servers usualy used by hackers and mass scanners, file f
 
 Source for badips: AbuseIPDB - GitHub ScriptzTeam/BadIPs - BinaryDefense - MyHomeNetrork and own EU Servers
 
-Last update: 23.01.2022 - 20:56 - WindowsBlockit - blockit.zip
+Last update: 23.01.2024 - 20:56 - WindowsBlockit - blockit.zip
 
 
-You can download weekly updates or when I have time BadIPs from my private servers Slovenia BadIP only for Home Network:
+You can download weekly updates or when I have time BadIPs from my private servers Slovenia BadIP only for Home Network UPDATED AUTOMATICLY ICH DAY GMT+1 BERLIN TIME EU AT 00:00 TO 02:00:
 
-URL: http://piramide.zapto.org/iplist-pcsnet.txt
+URL: https://piramide.zapto.org/iplist-pcsnet.txt
+
+# Update interval 12 hours TXT format:
+URL: https://psmedia.mywire.org/iplist.txt
+
+URL: https://psmedia.mywire.org/iplist-pcsnet.txt
 
 
-LAST UPDATE: 8.02.2022 - 21:02
+LAST UPDATE FOR STATIC FILES: 1.06.2024 - 21:02
 
 Piramide Studio NET private BanIPs for life time:
 
-URL: http://piramide.zapto.org/iplist-pcsnet.txt
+URL: https://piramide.zapto.org/iplist-pcsnet.txt
 
 LAST UPDATE: ????? (Maybe next month...)
 
 HTU org. - UITW org. EU - USA + ALL OTHER SERVERS BADIPS COMPLETE LIST:
 
-URL: http://piramide.zapto.org/iplist.txt
+STATIC LIST Security Companies URL: https://piramide.zapto.org/iplist.txt
 
+STATIC LIST for CMS Wordpress URL: https://perc.ddns.net/cms.txt
 
-SAME TEXT FILES ARE ON DOMAIN: http://perc.ddns.net/iplist.txt
+STATIC LIST for CMS Drupal/Joomal/Wordpress URL: https://perc.ddns.net/ip.txt
+
+Live list Update 2× to 4× per day: https://perc.ddns.net/iplist.txt
 
 
