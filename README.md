@@ -28,7 +28,7 @@ URL: http://piramide.zapto.org/iplist-pcsnet.txt
 
 LAST UPDATE: ????? (Maybe next month...)
 
-HTU org. - UITW org. EU - USA - RU + ALL OTHER SERVERS BADIPS COMPLETE LIST:
+HTU org. - UITW org. EU - USA + ALL OTHER SERVERS BADIPS COMPLETE LIST:
 
 URL: http://piramide.zapto.org/iplist.txt
 
