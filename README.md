@@ -37,10 +37,10 @@ HTU org. - UITW org. EU - USA + ALL OTHER SERVERS BADIPS COMPLETE LIST:
 
 STATIC LIST Security Companies URL: https://piramide.zapto.org/iplist.txt
 
-STATIC LIST for CMS Wordpress URL: https://perc.ddns.net/cms.txt
+STATIC LIST for CMS Wordpress URL: https://perc.ddns.net/iplist-cms.txt
 
-STATIC LIST for CMS Drupal/Joomal/Wordpress URL: https://perc.ddns.net/ip.txt
+STATIC LIST for CMS Drupal/Joomal/Wordpress URL: https://perc.ddns.net/iplist-sum.txt
 
-Live list Update 2× to 4× per day: https://perc.ddns.net/iplist.txt
+Live list Update 2× to 4× per day: https://perc.ddns.net/iplist-world.txt
 
 
